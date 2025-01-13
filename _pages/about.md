@@ -22,30 +22,14 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
 
 
 # 📖 Educations
-- *2019.09 - present*, Ph.D. candidate in the College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou. 
-- *2015.09 - 2019.07*, B.E. in the College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou. 
-
-# 💻 Internships
-- 2024.03 - present,  Algorithm & Data intern, <a href='https://www.molardata.com/'>MOLAR INTELLIGENCE</a>, Hangzhou.
-- 2023.07 - 2023.12,  Multimodal fusion intern, <a href='https://www.nio.cn/'>NIO</a>, Shanghai.
-- 2020.09 - 2020.12,  Vision algorithm intern, <a href='https://www.hongjingdrive.com/'>HYPERVIEW</a>, Shanghai.
+- *2023.09 - present*, Ph.D. candidate in the College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou. 
+- *2019.09 - 2023.06*, B.E. in the College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+- **<u>Xiaokai Bai</u>**, Zhu Yu, Lianqing Zheng et al., "SGDet3D: Semantics and Geometry Fusion for 3D Object Detection Using 4D Radar and Camera," *IEEE Robotics and Automation Letters*, vol. 10, no. 1, pp. 828-835, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10783046) [![](https://img.shields.io/github/stars/shawnnnkb/SGDet3D?style=social&label=Code+Stars)](https://github.com/shawnnnkb/SGDet3D) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:d1gkVwhDpl0C.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+- Lianqing Zheng, Long Yang, Qunshu Lin, Wenjin Ai, Minghao Liu, Shouyi Lu, Jianan Liu Hongze Ren, Jingyue Mo, **<u>Xiaokai Bai</u>**, Jie Bai et al. "OmniHD-Scenes: A Next-Generation Multimodal
+Dataset for Autonomous Driving," arXiv preprint arXiv:2412.10734 (2024). (submitted to *IEEE T-PAMI*)  [[Paper]](https://arxiv.org/abs/2412.10734) [[Project]](https://www.2077ai.com/OmniHD-Scenes/) [![](https://img.shields.io/github/stars/TJRadarLab/OmniHD-Scenes?style=social&label=Code+Stars)](https://github.com/TJRadarLab/OmniHD-Scenes) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.gZfyMFwAAAAJ:9yKSN-GCB0IC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
 # 🎖 Honors and Awards
 - *2021.10* 2016-2017 First-Class Academic Scholarship (top 5%, ￥1,500)
 - *2021.09* 2016-2017 First-Class Academic Scholarship (top 5%, ￥1,500)
