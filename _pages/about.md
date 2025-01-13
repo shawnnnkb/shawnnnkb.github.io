@@ -35,17 +35,17 @@ Dataset for Autonomous Driving", *arXiv preprint arXiv:2412.10734 submitted to I
 
 # 🎖 Honors and Awards
 
-- *2022-2023* | Postgraduate exemption based on being in the top 8%.
-- *2022-2023* | Zhejiang University Student Research Training Program (SRTP), Outstanding
-- *2022-2023* | Zhejiang University Student Entrepreneurship Competition, Second Prize
-- *2022-2023* | Silver Award in the Zhejiang Internet+ Innovation and Entrepreneurship Competition.
-- *2021-2022* | Zhejiang Provincial Government Scholarship (top 2%, ￥6,000)
-- *2021-2022* | Honorable Mention in the Mathematical Contest in Modeling (MCM)
-- *2021-2022* | Zhejiang University Excellent Student (top 3%)
-- *2020-2021* | Zhejiang University First-Class Academic Scholarship (top 3%, ￥6,000)
-- *2020-2021* | Zhejiang University Outstanding Senior Student
-- *2019-2020* | Zhejiang University First-Class Academic Scholarship (top 3%, ￥6,000)
-- *2019-2020* | Zhejiang University Excellent League Cadre
+- *2022-2023*, Postgraduate exemption based on being in the top 8%.
+- *2022-2023*, Zhejiang University Student Research Training Program (SRTP), Outstanding
+- *2022-2023*, Zhejiang University Student Entrepreneurship Competition, Second Prize
+- *2022-2023*, Silver Award in the Zhejiang Internet+ Innovation and Entrepreneurship Competition.
+- *2021-2022*, Zhejiang Provincial Government Scholarship (top 2%, ￥6,000)
+- *2021-2022*, Honorable Mention in the Mathematical Contest in Modeling (MCM)
+- *2021-2022*, Zhejiang University Excellent Student (top 3%)
+- *2020-2021*, Zhejiang University First-Class Academic Scholarship (top 3%, ￥6,000)
+- *2020-2021*, Zhejiang University Outstanding Senior Student
+- *2019-2020*, Zhejiang University First-Class Academic Scholarship (top 3%, ￥6,000)
+- *2019-2020*, Zhejiang University Excellent League Cadre
 
 # ✅ Services
 *Reviewer of IEEE International Conference on Robotics & Automation
