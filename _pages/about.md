@@ -34,8 +34,16 @@ Dataset for Autonomous Driving", *arXiv preprint arXiv:2412.10734 submitted to I
 - Xue Zhang, Siyuan Cao, Fang Wang, Runmin Zhang, Zhe Wu, Xiaohan Zhang, **<u>Xiaokai Bai</u>**, and Hui-Liang Shen. "Rethinking Early-Fusion Strategies for Improved Multispectral Object Detection," *IEEE Transactions on Intelligent Vehicles (early access)*. [[Paper]](https://arxiv.org/abs/2412.10734) [[Project]](https://ieeexplore.ieee.org/document/10681477) [![](https://img.shields.io/github/stars/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection?style=social&label=Code+Stars)]([https://github.com/TJRadarLab/OmniHD-Scenes](https://github.com/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection)) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:u-x6o8ySG0sC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
 
 # 🎖 Honors and Awards
-- *2021.10* 2016-2017 First-Class Academic Scholarship (top 5%, ￥1,500)
-- *2021.09* 2016-2017 First-Class Academic Scholarship (top 5%, ￥1,500)
+
+- *2022-2023* | Zhejiang University Student Research Training Program (SRTP), Outstanding
+- *2022-2023* | Zhejiang University Student Entrepreneurship Competition, Second Prize
+- *2021-2022* | Zhejiang Provincial Government Scholarship (top 2%, ￥6,000)
+- *2021-2022* | Honorable Mention in the Mathematical Contest in Modeling (MCM)
+- *2021-2022* | Zhejiang University Excellent Student (top 3%)
+- *2020-2021* | Zhejiang University First-Class Academic Scholarship (top 3%, ￥6,000)
+- *2020-2021* | Zhejiang University Outstanding Senior Student
+- *2019-2020* | Zhejiang University First-Class Academic Scholarship (top 3%, ￥6,000)
+- *2019-2020* | Zhejiang University Excellent League Cadre
 
 # ✅ Services
 *Reviewer of IEEE International Conference on Robotics & Automation
