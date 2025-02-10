@@ -49,5 +49,5 @@ Dataset for Autonomous Driving", *arXiv preprint arXiv:2412.10734 submitted to I
 - *2019-2020*, Zhejiang University Excellent League Cadre
 
 # ✅ Services
-*Reviewer of IEEE International Conference on Robotics & Automation
-*Reviewer of IEEE International Radar Conference
+- *Reviewer of IEEE International Conference on Robotics & Automation
+- *Reviewer of IEEE International Radar Conference
