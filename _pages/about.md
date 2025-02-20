@@ -27,8 +27,8 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
 - *2019.09 - 2023.06*, B.E. in the College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou.
 
 # 💻 Project Experience
-- *2024.01 - present*, National Key Research and Development Program of China (project leader), 4D millimeter-wave radar object detection and tracking for autonomous driving.
-- *2022.06 - 2023.12*, Collaboration with Apple on image denoising based on transfer learning and generative models, i.e., diffusion models and GANs.
+- *2024.01 - present*, National Key R&D Program of China, 4D Radar object detection and tracking in autonomous driving.
+- *2022.06 - 2023.12*, Collaboration with Apple on image denoising based on transfer learning and generative models.
 
 
 # 📝 Publications 
