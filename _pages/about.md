@@ -21,12 +21,16 @@ I am currently pursuing a Ph.D. at the College of Information Science and Electr
 
 My research interests include 3D Object Detection, 4D Radar Perception, Multi-modal Fusion, and 3D Reasoning. Recent research focuses on integrating LLMs with 4D imaging radar and vision fusion in an end-to-end architecture. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fshawnnnkb%2Fshawnnnkb.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+# 🔥 News
+- Currently exploring the potential of large vision-language models in 3D spatial reasoning.
+- Currently investigating the use of generative models in occupancy prediction for autonomous driving.
+- Currently implementing knowledge distillation to enhance the performance of 4D millimeter-wave radar.
 
 # 📖 Educations
 - *2023.09 - present*, Ph.D. candidate in the College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou. 
 - *2019.09 - 2023.06*, B.E. in the College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou.
 
-# 💻 Project Experience
+# 💻 Projects
 - *2024.01 - present*, National Key R&D Program of China, 4D Radar object detection and tracking in autonomous driving.
 - *2022.06 - 2023.12*, Collaboration with Apple on image denoising based on transfer learning and generative models.
 
