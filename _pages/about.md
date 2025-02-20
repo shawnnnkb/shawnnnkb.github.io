@@ -24,7 +24,12 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
 
 # 📖 Educations
 - *2023.09 - present*, Ph.D. candidate in the College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou. 
-- *2019.09 - 2023.06*, B.E. in the College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou. 
+- *2019.09 - 2023.06*, B.E. in the College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou.
+
+# 💻 Project Experience
+- *2024.01 - present*, National Key Research and Development Program of China (project leader), 4D millimeter-wave radar object detection and tracking for autonomous driving.
+- *2022.06 - 2023.12*, Collaboration with Apple on image denoising based on transfer learning and generative models, i.e., diffusion models and GANs.
+
 
 # 📝 Publications 
 
@@ -45,11 +50,12 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
 - Zhe Wu, Yunxin Li, Runmin Zhang, 	Si-Yuan Cao, Jiacheng Ying, Xiaohan Zhang, **<u>Xiaokai Bai</u>**, Shujie Chen, Bailin Yang, and Huiliang Shen. "TEFormer: Thermal Infrared Image Enhancement by Preserving Spatial Consistency and Details", *submitted to IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2025.
 
 # 🎖 Honors and Awards
+- *2023-2024*, Excellent Postgraduate student of Zhejiang University (top 5%)
 - *2022-2023*, Outstanding Graduate of Zhejiang Province (top 1%)
 - *2022-2023*, Postgraduate exemption based on being in the top 5%
-- *2022-2023*, Zhejiang University Student Research Training Program (SRTP), Outstanding
-- *2022-2023*, Zhejiang University Student Entrepreneurship Competition, Second Prize
-- *2022-2023*, Silver Award in the Zhejiang Internet+ Innovation and Entrepreneurship Competition
+- *2021-2023*, Zhejiang University Student Research Training Program (SRTP), Outstanding
+- *2021-2022*, Zhejiang University Student Entrepreneurship Competition, Second Prize
+- *2021-2022*, Silver Award in the Zhejiang Internet+ Innovation and Entrepreneurship Competition
 - *2021-2022*, Zhejiang Provincial Government Scholarship (top 2%, ￥6,000)
 - *2021-2022*, Honorable Mention in the Mathematical Contest in Modeling (MCM)
 - *2021-2022*, Zhejiang University Excellent Student (top 3%)
