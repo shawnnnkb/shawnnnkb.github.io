@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently pursuing a Ph.D. at the College of Information Science and Electronic Engineering at Zhejiang University under the supervision of Prof. Shen Hui-liang. Prior to this, I received postgraduate exemption and my Bachelor’s degree from the same college.
 
-My research interests include 3D Object Detection, 4D Radar Perception, Multi-modal Fusion, and 3D Reasoning. Recent research focuses on integrating LLMs with 4D imaging radar and vision fusion in an end-to-end architecture. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fshawnnnkb%2Fshawnnnkb.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interests include 3D Object Detection, 4D Radar Perception, Multi-modal Fusion, and 3D Reasoning. Recent research focuses on integrating LLMs with 4D imaging radar and vision fusion in an end-to-end architecture. <a href='https://scholar.google.com/citations?user=KMXilhkAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fshawnnnkb%2Fshawnnnkb.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
 - Currently exploring the potential of large vision-language models in 3D spatial reasoning.
