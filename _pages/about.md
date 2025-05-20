@@ -49,10 +49,10 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
 
 - ***<u>Xiaokai Bai</u>***, Lianqing Zheng, Xiaohan Zhang, Zhu Yu, Si-Yuan Cao, Zhe Wu, Fang Wang, and Hui-Liang Shen. "SIFormer: Scene-Instance Aware Transformer for 3D Object Detection with 4D Radar and Camera", *submitted to IEEE Transactions on Multimedia (TMM), 2025*.
 - ***<u>Xiaokai Bai</u>***, Qin Yang, Zili Zhou, Fuyi Zhang, Zhe Wu, Si-Yuan Cao, Lianqing Zheng, Beinan Yu, Fang Wang, Jie Bai, and Hui-Liang Shen. "LGDD: Local-Global Synergistic Dual-Branch 3D Object Detection Using 4D Radar", *submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025*. [![](https://img.shields.io/github/stars/shawnnnkb/LGDD?style=social&label=Code+Stars)](https://github.com/shawnnnkb/LGDD)
-- ***<u>Xiaokai Bai</u>***, Jiahao Cheng, Songkai Wang, Yixuan Luo, Lianqing Zheng, Xiaohan Zhang, Si-Yuan Cao, and Hui-Liang Shen. "SD4R: Sparse-to-Dense Learning for 3D Object
-Detection with 4D Radar", *submitted to IEEE Intelligent Transportation Systems Conference (ITSC), 2025*.
+- ***<u>Xiaokai Bai</u>***, Jiahao Cheng, Songkai Wang, Yixuan Luo, Lianqing Zheng, Xiaohan Zhang, Si-Yuan Cao, and Hui-Liang Shen. "SD4R: Sparse-to-Dense Learning for 3D Object Detection with 4D Radar", *submitted to IEEE Intelligent Transportation Systems Conference (ITSC), 2025*.
 - Chenghao Zhang, Lun Luo, Si-Yuan Cao, ***<u>Xiaokai Bai</u>***, Zhu Yu, Yisen Wang, Beinan Yu, and Hui-Liang Shen. "S-BEVLoc: BEV-based Self-supervised Framework for Large-scale LiDAR Global Localization", *submitted to IEEE Robotics and Automation Letters (RAL), 2025*.
-- Xiaohan Zhang, Dongqi Yuan, Yihan Hu, Zhe Wu, Xue Zhang, Beinan Yu, ***<u>Xiaokai Bai</u>***, Si-Yuan Cao, Bailin Yang, and Huiliang Shen. "SADet: A Semantic-Aware Tiny Object Detection Network Against Missed Detection", *submitted to IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025*.
+- Xiaohan Zhang, Dongqi Yuan, Yihan Hu, Zhe Wu, Xue Zhang, Beinan Yu, ***<u>Xiaokai Bai</u>***, Si-Yuan Cao, Bailin Yang, and Huiliang Shen. "SADet: A Semantic-Aware Tiny Object Detection Network Against Missed Detection", *submitted to Pattern Recognition (PR), 2025*.
+- Xiaohan Zhang, 	Si-Yuan Cao, Zhu Yu, 	Zhe Wu, Xue Zhang,	***<u>Xiaokai Bai</u>***, Beinan Yu, Hui-Liang Shen. "GeoFormer: Boosting Object Distinguishing and Prompt Understanding for Cross-View Object Geo-Localization", *submitted to IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025*.
 - Zhe Wu, Yunxin Li, Runmin Zhang, 	Si-Yuan Cao, Jiacheng Ying, Xiaohan Zhang, ***<u>Xiaokai Bai</u>***, Shujie Chen, Bailin Yang, and Huiliang Shen. "TEFormer: Thermal Infrared Image Enhancement by Preserving Spatial Consistency and Details", *submitted to IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025*.
 - Yiming Li*, Qinglin He, Yihan Yang, Yuguang Chu, Yuanhui Hu, Zhe Wu, ***<u>Xiaokai Bai</u>***, Xiaohan Zhang, Weichen Liu, and Hui-Liang Shen. "Remote PPG Measurement Using a Synergistic Time-Frequency Network", *submitted to IEEE Journal of Biomedical and Health Informatics (JBHI), 2025*.
   
@@ -75,4 +75,5 @@ Detection with 4D Radar", *submitted to IEEE Intelligent Transportation Systems 
 - *Reviewer of IEEE Robotics and Automation Letters (RAL)*
 - *Reviewer of IEEE International Conference on Robotics & Automation (ICRA)*
 - *Reviewer of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
+- *Reviewer of IEEE Intelligent Transportation Systems Conference (ITSC)*
 - *Reviewer of IEEE International Radar Conference*
