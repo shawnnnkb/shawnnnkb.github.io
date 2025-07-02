@@ -38,6 +38,7 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
 # 📝 Publications 
 
 - ***<u>Xiaokai Bai</u>***, Zhu Yu, Lianqing Zheng,  Xiaohan Zhang, Zili Zhou, Xue Zhang, Fang Wang, Jie Bai, and Huiliang Shen. "SGDet3D: Semantics and Geometry Fusion for 3D Object Detection Using 4D Radar and Camera", *IEEE Robotics and Automation Letters (RAL)*, vol. 10, no. 1, pp. 828-835, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10783046) [![](https://img.shields.io/github/stars/shawnnnkb/SGDet3D?style=social&label=Code+Stars)](https://github.com/shawnnnkb/SGDet3D) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:d1gkVwhDpl0C.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+<span class='show_paper_citations' data='KMXilhkAAAAJ:d1gkVwhDpl0C'></span>
 
 - ***<u>Xiaokai Bai</u>***, Qin Yang, Zili Zhou, Fuyi Zhang, Zhe Wu, Si-Yuan Cao, Lianqing Zheng, Beinan Yu, Fang Wang, Jie Bai, and Hui-Liang Shen. "LGDD: Local-Global Synergistic Dual-Branch 3D Object Detection Using 4D Radar", *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025*. [![](https://img.shields.io/github/stars/shawnnnkb/LGDD?style=social&label=Code+Stars)](https://github.com/shawnnnkb/LGDD)
 
