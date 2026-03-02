@@ -146,6 +146,7 @@ Lianqing Zheng, Jianan Liu, Runwei Guan, Long Yang, Shouyi Lu, Yuanzhe Li, ***<u
   </div>
   <div class='paper-box-text' markdown="1">
 "Beyond Registration: Self-Supervised Unknown Border Completion", *Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2025*. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-95-5682-3_18) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:Se3iqnhoufwC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+
 ***<u>Xiaokai Bai</u>***, Jun Ma, Leyuan Yu, Runmin Zhang, Hui-Liang Shen, Beinan Yu, and Si-Yuan Cao.
   </div>
 </div>
@@ -158,8 +159,8 @@ Lianqing Zheng, Jianan Liu, Runwei Guan, Long Yang, Shouyi Lu, Yuanzhe Li, ***<u
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-
 "Boosting Conditional Diffusion Models Using Intermediate Segmentation Map for Infrared Small Target Detection", *Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2025*. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-95-5699-1_14) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:_FxGoFyzp5QC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+
 ***<u>Xiaokai Bai</u>***, Wenkai Zhao, Xiaohan Zhang, Yicheng Tong, Si-Yuan Cao, and Hui-Liang Shen.
   </div>
 </div>
