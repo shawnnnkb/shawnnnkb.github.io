@@ -42,7 +42,7 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
   <div class='paper-box-image'>
     <div>
       <div class="badge">RAL 2025</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/500x150.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -56,7 +56,7 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
   <div class='paper-box-image'>
     <div>
       <div class="badge">IROS 2025</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/500x150.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -70,7 +70,7 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
   <div class='paper-box-image'>
     <div>
       <div class="badge">PRCV 2025</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/500x150.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -83,7 +83,7 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
   <div class='paper-box-image'>
     <div>
       <div class="badge">PRCV 2025</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/500x150.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -97,7 +97,7 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
   <div class='paper-box-image'>
     <div>
       <div class="badge">ITSC 2025</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/500x150.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -111,7 +111,7 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
   <div class='paper-box-image'>
     <div>
       <div class="badge">TMM 2025</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/500x150.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -124,7 +124,7 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2026</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/500x150.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -138,7 +138,7 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICRA 2025</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/500x150.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -152,7 +152,7 @@ Fuyi Zhang, Zhu Yu, Chunhao Li, Runmin Zhang, ***<u>Xiaokai Bai</u>***, Zili Zho
   <div class='paper-box-image'>
     <div>
       <div class="badge">TIV 2024</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/500x150.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -166,7 +166,7 @@ Xue Zhang, Siyuan Cao, Fang Wang, Runmin Zhang, Zhe Wu, Xiaohan Zhang, ***<u>Xia
   <div class='paper-box-image'>
     <div>
       <div class="badge">RAL 2025</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/500x150.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -180,7 +180,7 @@ Chenghao Zhang, Lun Luo, Si-Yuan Cao, ***<u>Xiaokai Bai</u>***, Zhu Yu, Yisen Wa
   <div class='paper-box-image'>
     <div>
       <div class="badge">TPAMI 2026</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/500x150.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -194,7 +194,7 @@ Lianqing Zheng, Long Yang, Qunshu Lin, Wenjin Ai, Minghao Liu, Shouyi Lu, Jianan
   <div class='paper-box-image'>
     <div>
       <div class="badge">TCSVT 2026</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/500x150.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
