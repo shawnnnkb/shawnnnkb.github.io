@@ -181,20 +181,6 @@ Fuyi Zhang, Zhu Yu, Chunhao Li, Runmin Zhang, ***<u>Xiaokai Bai</u>***, Zili Zho
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">TIV 2024</div>
-      <img src='images/Rethinking.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-"Rethinking Early-Fusion Strategies for Improved Multispectral Object Detection", *IEEE Transactions on Intelligent Vehicles (TIV), 2024*. [[Paper]](https://ieeexplore.ieee.org/document/10681477) [![](https://img.shields.io/github/stars/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection?style=social&label=Code+Stars)](https://github.com/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:u-x6o8ySG0sC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
-
-Xue Zhang, Siyuan Cao, Fang Wang, Runmin Zhang, Zhe Wu, Xiaohan Zhang, ***<u>Xiaokai Bai</u>***, and Hui-Liang Shen.
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
       <div class="badge">RAL 2025</div>
       <img src='images/S-BEVLoc.png' alt="sym" width="100%">
     </div>
@@ -206,6 +192,19 @@ Chenghao Zhang, Lun Luo, Si-Yuan Cao, ***<u>Xiaokai Bai</u>***, Zhu Yu, Yisen Wa
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TIV 2024</div>
+      <img src='images/Rethinking.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"Rethinking Early-Fusion Strategies for Improved Multispectral Object Detection", *IEEE Transactions on Intelligent Vehicles (TIV), 2024*. [[Paper]](https://ieeexplore.ieee.org/document/10681477) [![](https://img.shields.io/github/stars/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection?style=social&label=Code+Stars)](https://github.com/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:u-x6o8ySG0sC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+
+Xue Zhang, Siyuan Cao, Fang Wang, Runmin Zhang, Zhe Wu, Xiaohan Zhang, ***<u>Xiaokai Bai</u>***, and Hui-Liang Shen.
+  </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024-2025*, Five-Good Graduate Student (top 1%)
