@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# 😄 Short Bio 
+# 😄 About Me 
 
 I am currently pursuing a Ph.D. at the College of Information Science and Electronic Engineering at Zhejiang University under the supervision of Prof. Shen Hui-liang. Prior to this, I received postgraduate exemption and my Bachelor’s degree from the same college.
 
