@@ -41,8 +41,39 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">CVPR 2026</div>
+      <img src='images/RaGS.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cues for 3D Object Detection", *IEEE/CVF Conference on Computer Vision & Pattern Recognition (CVPR), 2026*. [[Paper]](https://arxiv.org/abs/2507.19856) [![](https://img.shields.io/github/stars/shawnnnkb/RaGS?style=social&label=Code+Stars)](https://github.com/shawnnnkb/RaGS) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:zYLM7Y9cAGgC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+
+***<u>Xiaokai Bai</u>***, Jiahao Cheng, Songkai Wang, Yixuan Luo, Lianqing Zheng, Xiaohan Zhang, Si-Yuan Cao, and Hui-Liang Shen.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TMM 2026</div>
+      <img src='images/SIFormer.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"Boosting Instance Awareness via Cross-View Correlation with 4D Radar and Camera for 3D Object Detection", *IEEE Transactions on Multimedia (TMM), 2026*. [[Paper]](https://arxiv.org/abs/2602.20632) [![](https://img.shields.io/github/stars/shawnnnkb/SIFormer?style=social&label=Code+Stars)](https://github.com/shawnnnkb/SIFormer) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:UebtZRa9Y70C.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+***<u>Xiaokai Bai</u>***, Lianqing Zheng, Xiaohan Zhang, Zhu Yu, Si-Yuan Cao, Zhe Wu, Fang Wang, and Hui-Liang Shen.
+  </div>
+</div>
+
+***<u>Xiaokai Bai</u>***, Chenxu Zhou, Lianqing Zheng, Si-Yuan Cao, Jianan Liu, Xiaohan Zhang, Zhengzhuang Zhang, Hui-Liang Shen.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">RAL 2025</div>
-      <img src='images/500x150.png' alt="sym" width="100%">
+      <img src='images/SGDet3D.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -56,7 +87,7 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
   <div class='paper-box-image'>
     <div>
       <div class="badge">IROS 2025</div>
-      <img src='images/500x150.png' alt="sym" width="100%">
+      <img src='images/LGDD.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -69,118 +100,18 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">PRCV 2025</div>
-      <img src='images/500x150.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-"Beyond Registration: Self-Supervised Unknown Border Completion", *Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2025*. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-95-5682-3_18) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:Se3iqnhoufwC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
-***<u>Xiaokai Bai</u>***, Jun Ma, Leyuan Yu, Runmin Zhang, Hui-Liang Shen, Beinan Yu, and Si-Yuan Cao.
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">PRCV 2025</div>
-      <img src='images/500x150.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-"Boosting Conditional Diffusion Models Using Intermediate Segmentation Map for Infrared Small Target Detection", *Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2025*. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-95-5699-1_14) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:_FxGoFyzp5QC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
-***<u>Xiaokai Bai</u>***, Wenkai Zhao, Xiaohan Zhang, Yicheng Tong, Si-Yuan Cao, and Hui-Liang Shen.
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
       <div class="badge">ITSC 2025</div>
-      <img src='images/500x150.png' alt="sym" width="100%">
+      <img src='images/SD4R.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 "SD4R: Sparse-to-Dense Learning for 3D Object Detection with 4D Radar", *IEEE Intelligent Transportation Systems Conference (ITSC), 2025*. [[Paper]](https://arxiv.org/abs/2602.20653) [![](https://img.shields.io/github/stars/lancelot0805/SD4R?style=social&label=Code+Stars)](https://github.com/lancelot0805/SD4R) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:hqOjcs7Dif8C.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
 
-***<u>Xiaokai Bai</u>***, Jiahao Cheng, Songkai Wang, Yixuan Luo, Lianqing Zheng, Xiaohan Zhang, Si-Yuan Cao, and Hui-Liang Shen.
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">TMM 2025</div>
-      <img src='images/500x150.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-"Boosting Instance Awareness via Cross-View Correlation with 4D Radar and Camera for 3D Object Detection", *IEEE Transactions on Multimedia (TMM), 2026*. [[Paper]](https://arxiv.org/abs/2602.20632) [![](https://img.shields.io/github/stars/shawnnnkb/SIFormer?style=social&label=Code+Stars)](https://github.com/shawnnnkb/SIFormer) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:UebtZRa9Y70C.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
-***<u>Xiaokai Bai</u>***, Lianqing Zheng, Xiaohan Zhang, Zhu Yu, Si-Yuan Cao, Zhe Wu, Fang Wang, and Hui-Liang Shen.
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CVPR 2026</div>
-      <img src='images/500x150.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-"RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cues for 3D Object Detection", *IEEE/CVF Conference on Computer Vision & Pattern Recognition (CVPR), 2026*. [[Paper]](https://arxiv.org/abs/2507.19856) [![](https://img.shields.io/github/stars/shawnnnkb/RaGS?style=social&label=Code+Stars)](https://github.com/shawnnnkb/RaGS) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:zYLM7Y9cAGgC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
-
-***<u>Xiaokai Bai</u>***, Chenxu Zhou, Lianqing Zheng, Si-Yuan Cao, Jianan Liu, Xiaohan Zhang, Zhengzhuang Zhang, Hui-Liang Shen.
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ICRA 2025</div>
-      <img src='images/500x150.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-"Structure-Aware Radar-Camera Depth Estimation", *IEEE International Conference on Robotics and Automation (ICRA), 2025*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11128760) [![](https://img.shields.io/github/stars/FreyZhangYeh/SA-RCD?style=social&label=Code+Stars)](https://github.com/FreyZhangYeh/SA-RCD) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:qjMakFHDy7sC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
-
-Fuyi Zhang, Zhu Yu, Chunhao Li, Runmin Zhang, ***<u>Xiaokai Bai</u>***, Zili Zhou, Si-Yuan Cao, Fang Wang, and Hui-Liang Shen.
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">TIV 2024</div>
-      <img src='images/500x150.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-"Rethinking Early-Fusion Strategies for Improved Multispectral Object Detection", *IEEE Transactions on Intelligent Vehicles (TIV), 2024*. [[Paper]](https://ieeexplore.ieee.org/document/10681477) [![](https://img.shields.io/github/stars/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection?style=social&label=Code+Stars)](https://github.com/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:u-x6o8ySG0sC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
-
-Xue Zhang, Siyuan Cao, Fang Wang, Runmin Zhang, Zhe Wu, Xiaohan Zhang, ***<u>Xiaokai Bai</u>***, and Hui-Liang Shen.
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">RAL 2025</div>
-      <img src='images/500x150.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-"S-BEVLoc: BEV-based Self-supervised Framework for Large-scale LiDAR Global Localization", *IEEE Robotics and Automation Letters (RAL), 2025*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11108251) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:Tyk-4Ss8FVUC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
-
-Chenghao Zhang, Lun Luo, Si-Yuan Cao, ***<u>Xiaokai Bai</u>***, Zhu Yu, Yisen Wang, Beinan Yu, and Hui-Liang Shen.
-  </div>
-</div>
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">TPAMI 2026</div>
-      <img src='images/500x150.png' alt="sym" width="100%">
+      <img src='images/OmniHD.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -194,7 +125,7 @@ Lianqing Zheng, Long Yang, Qunshu Lin, Wenjin Ai, Minghao Liu, Shouyi Lu, Jianan
   <div class='paper-box-image'>
     <div>
       <div class="badge">TCSVT 2026</div>
-      <img src='images/500x150.png' alt="sym" width="100%">
+      <img src='images/Doracamom.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -203,6 +134,76 @@ Lianqing Zheng, Long Yang, Qunshu Lin, Wenjin Ai, Minghao Liu, Shouyi Lu, Jianan
 Lianqing Zheng, Jianan Liu, Runwei Guan, Long Yang, Shouyi Lu, Yuanzhe Li, ***<u>Xiaokai Bai</u>***, Jie Bai, Zhixiong Ma, Hui-Liang Shen, and Xichan Zhu.
   </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">PRCV 2025</div>
+      <img src='images/Beyond.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"Beyond Registration: Self-Supervised Unknown Border Completion", *Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2025*. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-95-5682-3_18) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:Se3iqnhoufwC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+***<u>Xiaokai Bai</u>***, Jun Ma, Leyuan Yu, Runmin Zhang, Hui-Liang Shen, Beinan Yu, and Si-Yuan Cao.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">PRCV 2025</div>
+      <img src='images/IRSTD.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+"Boosting Conditional Diffusion Models Using Intermediate Segmentation Map for Infrared Small Target Detection", *Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2025*. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-95-5699-1_14) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:_FxGoFyzp5QC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+***<u>Xiaokai Bai</u>***, Wenkai Zhao, Xiaohan Zhang, Yicheng Tong, Si-Yuan Cao, and Hui-Liang Shen.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICRA 2025</div>
+      <img src='images/SARCD.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"Structure-Aware Radar-Camera Depth Estimation", *IEEE International Conference on Robotics and Automation (ICRA), 2025*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11128760) [![](https://img.shields.io/github/stars/FreyZhangYeh/SA-RCD?style=social&label=Code+Stars)](https://github.com/FreyZhangYeh/SA-RCD) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:qjMakFHDy7sC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+
+Fuyi Zhang, Zhu Yu, Chunhao Li, Runmin Zhang, ***<u>Xiaokai Bai</u>***, Zili Zhou, Si-Yuan Cao, Fang Wang, and Hui-Liang Shen.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TIV 2024</div>
+      <img src='images/Rethinking.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"Rethinking Early-Fusion Strategies for Improved Multispectral Object Detection", *IEEE Transactions on Intelligent Vehicles (TIV), 2024*. [[Paper]](https://ieeexplore.ieee.org/document/10681477) [![](https://img.shields.io/github/stars/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection?style=social&label=Code+Stars)](https://github.com/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:u-x6o8ySG0sC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+
+Xue Zhang, Siyuan Cao, Fang Wang, Runmin Zhang, Zhe Wu, Xiaohan Zhang, ***<u>Xiaokai Bai</u>***, and Hui-Liang Shen.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">RAL 2025</div>
+      <img src='images/S-BEVLoc.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"S-BEVLoc: BEV-based Self-supervised Framework for Large-scale LiDAR Global Localization", *IEEE Robotics and Automation Letters (RAL), 2025*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11108251) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:Tyk-4Ss8FVUC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+
+Chenghao Zhang, Lun Luo, Si-Yuan Cao, ***<u>Xiaokai Bai</u>***, Zhu Yu, Yisen Wang, Beinan Yu, and Hui-Liang Shen.
+  </div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2024-2025*, Five-Good Graduate Student (top 1%)
