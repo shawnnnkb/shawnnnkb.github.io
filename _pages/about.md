@@ -63,7 +63,7 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
   <div class='paper-box-text' markdown="1">
 "Boosting Instance Awareness via Cross-View Correlation with 4D Radar and Camera for 3D Object Detection", *IEEE Transactions on Multimedia (TMM), 2026*. [[Paper]](https://arxiv.org/abs/2602.20632) [![](https://img.shields.io/github/stars/shawnnnkb/SIFormer?style=social&label=Code+Stars)](https://github.com/shawnnnkb/SIFormer) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:UebtZRa9Y70C.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
 
-***<u>Xiaokai Bai</u>***, Lianqing Zheng, Xiaohan Zhang, Zhu Yu, Si-Yuan Cao, Zhe Wu, Fang Wang, and Hui-Liang Shen.
+***<u>Xiaokai Bai</u>***, Lianqing Zheng, Si-Yuan Cao, Xiaohan Zhang, Zhe Wu, Beinan Yu, Fang Wang, Jie Bai, and Hui-Liang Shen.
   </div>
 </div>
 
@@ -77,7 +77,7 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
   <div class='paper-box-text' markdown="1">
 "SGDet3D: Semantics and Geometry Fusion for 3D Object Detection Using 4D Radar and Camera", *IEEE Robotics and Automation Letters (RAL)*, vol. 10, no. 1, pp. 828-835, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10783046) [![](https://img.shields.io/github/stars/shawnnnkb/SGDet3D?style=social&label=Code+Stars)](https://github.com/shawnnnkb/SGDet3D) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:d1gkVwhDpl0C.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
 
-***<u>Xiaokai Bai</u>***, Zhu Yu, Lianqing Zheng, Xiaohan Zhang, Zili Zhou, Xue Zhang, Fang Wang, Jie Bai, and Huiliang Shen.
+***<u>Xiaokai Bai</u>***, Zhu Yu, Lianqing Zheng, Xiaohan Zhang, Zili Zhou, Xue Zhang, Fang Wang, Jie Bai, and Hui-Liang Shen.
   </div>
 </div>
 
@@ -203,7 +203,7 @@ Chenghao Zhang, Lun Luo, Si-Yuan Cao, ***<u>Xiaokai Bai</u>***, Zhu Yu, Yisen Wa
   <div class='paper-box-text' markdown="1">
 "Rethinking Early-Fusion Strategies for Improved Multispectral Object Detection", *IEEE Transactions on Intelligent Vehicles (TIV), 2024*. [[Paper]](https://ieeexplore.ieee.org/document/10681477) [![](https://img.shields.io/github/stars/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection?style=social&label=Code+Stars)](https://github.com/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:u-x6o8ySG0sC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
 
-Xue Zhang, Siyuan Cao, Fang Wang, Runmin Zhang, Zhe Wu, Xiaohan Zhang, ***<u>Xiaokai Bai</u>***, and Hui-Liang Shen.
+Xue Zhang, Si-Yuan Cao, Fang Wang, Runmin Zhang, Zhe Wu, Xiaohan Zhang, ***<u>Xiaokai Bai</u>***, and Hui-Liang Shen.
   </div>
 </div>
 
