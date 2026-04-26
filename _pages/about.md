@@ -225,10 +225,13 @@ Xue Zhang, Si-Yuan Cao, Fang Wang, Runmin Zhang, Zhe Wu, Xiaohan Zhang, ***<u>Xi
 - *2019-2020*, Zhejiang University Excellent League Cadre
 
 # ✅ Services
+- *Reviewer of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*
+- *Reviewer of ACM International Conference on Multimedia (ACMMM)*
 - *Reviewer of Association for the Advancement of Artificial Intelligence (AAAI)*
+- *Reviewer of Pattern Recognition (PR)*
 - *Reviewer of IEEE Transactions on Geoscience and Remote Sensing (TGRS)*
+- *Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*
 - *Reviewer of IEEE Robotics and Automation Letters (RAL)*
 - *Reviewer of IEEE International Conference on Robotics & Automation (ICRA)*
 - *Reviewer of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
 - *Reviewer of IEEE Intelligent Transportation Systems Conference (ITSC)*
-- *Reviewer of IEEE International Radar Conference*
