@@ -229,6 +229,7 @@ Xue Zhang, Si-Yuan Cao, Fang Wang, Runmin Zhang, Zhe Wu, Xiaohan Zhang, ***<u>Xi
 - *Reviewer of ACM International Conference on Multimedia (ACMMM)*
 - *Reviewer of Association for the Advancement of Artificial Intelligence (AAAI)*
 - *Reviewer of Pattern Recognition (PR)*
+- *Reviewer of IEEE Internet of Things Journal (IoT)*
 - *Reviewer of IEEE Transactions on Geoscience and Remote Sensing (TGRS)*
 - *Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*
 - *Reviewer of IEEE Robotics and Automation Letters (RAL)*
