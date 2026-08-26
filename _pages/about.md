@@ -89,6 +89,34 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">arXiv 2026</div>
+      <img src='images/SGDet3D.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"4DR360◦: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2607.09629)
+
+***<u>Xiaokai Bai</u>***, Lianqing Zheng, Runwei Guan, Songkai Wang, Siyuan Cao, Hui-liang Shen.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2026</div>
+      <img src='images/SGDet3D.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"RC-GeoCP: Geometric Consensus for Radar-Camera Collaborative Perception", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2603.00654)
+
+***<u>Xiaokai Bai</u>***, Lianqing Zheng, Runwei Guan, Siyuan Cao, Songkai Wang, Huiliang Shen.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">IROS 2025</div>
       <img src='images/LGDD.png' alt="sym" width="100%">
     </div>
