@@ -17,22 +17,23 @@ redirect_from:
 
 # 😄 About Me 
 
-I am currently pursuing a Ph.D. at the College of Information Science and Electronic Engineering at Zhejiang University under the supervision of Prof. Shen Hui-liang. Prior to this, I received postgraduate exemption and my Bachelor’s degree from the same college.
+I am currently pursuing a Ph.D. at the College of Information Science and Electronic Engineering (ISEE) at Zhejiang University under the supervision of <u>Prof. Hui-liang Shen</u> (Chair of the Department of Electronic Engineering), and <u>Prof. Gang Pan</u>, (Director of the State Key Laboratory of Brain-Machine Intelligence and Vice Dean of the College of Computer Science and Technology). Prior to this, I received postgraduate exemption and my Bachelor’s degree from the ISEE, Zhejiang University.
 
 My research interests include 3D Object Detection, 4D Radar Perception, Multi-modal Fusion, and 3D Reasoning. Recent research focuses on integrating LLMs with 4D imaging radar and vision fusion in an end-to-end architecture. <a href='https://scholar.google.com/citations?user=KMXilhkAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fshawnnnkb%2Fshawnnnkb.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
 - Currently exploring the potential of large vision-language models in 3D spatial reasoning.
-- Currently investigating the use of generative models in occupancy prediction for autonomous driving.
-- Currently implementing knowledge distillation to enhance the performance of 4D millimeter-wave radar.
+- Currently exploring brain-signal decoding for motor imagery with large vision-language models.
+- Currently exploring the integration of VLA models with brain signals for robotic manipulation.
 
 # 📖 Educations
 - *2023.09 - present*, Ph.D. candidate in the College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou. 
 - *2019.09 - 2023.06*, B.E. in the College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou.
 
 # 💻 Projects
-- *2025.08 - present*, ChinaEye Valley Co-operative Project on maternal and infant health risk assessment.
-- *2025.12 - present*, Collaboration with VIVO on 4D dynamic scene reconstruction under sparse-view, combining generative models.
+- *2026.03 - present*, Collaboration with Postdoct Jiaxuan Chen on neural signal decoding and cross-modal alignment with VLMs).
+- *2025.08 - 2026.03*, ChinaEye Valley Co-operative Project on maternal and infant health risk assessment.
+- *2025.12 - 2026.06*, Collaboration with VIVO on 4D dynamic scene reconstruction under sparse-view, combining generative models.
 - *2024.01 - 2026.06*, National Key R&D Program of China, 4D radar object detection and tracking in autonomous driving.
 - *2022.06 - 2023.12*, Collaboration with Apple on image denoising based on transfer learning and generative models.
 - *2021.06 - 2022.06*, Student Research Project SRTP on face video heart rate signal measurement via rPPG.
@@ -137,33 +138,6 @@ Lianqing Zheng, Jianan Liu, Runwei Guan, Long Yang, Shouyi Lu, Yuanzhe Li, ***<u
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">PRCV 2025</div>
-      <img src='images/Beyond.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-"Beyond Registration: Self-Supervised Unknown Border Completion", *Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2025*. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-95-5682-3_18) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:Se3iqnhoufwC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
-
-***<u>Xiaokai Bai</u>***, Jun Ma, Leyuan Yu, Runmin Zhang, Hui-Liang Shen, Beinan Yu, and Si-Yuan Cao.
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">PRCV 2025</div>
-      <img src='images/IRSTD.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-"Boosting Conditional Diffusion Models Using Intermediate Segmentation Map for Infrared Small Target Detection", *Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2025*. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-95-5699-1_14) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:_FxGoFyzp5QC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
-
-***<u>Xiaokai Bai</u>***, Wenkai Zhao, Xiaohan Zhang, Yicheng Tong, Si-Yuan Cao, and Hui-Liang Shen.
-  </div>
-</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -176,20 +150,6 @@ Lianqing Zheng, Jianan Liu, Runwei Guan, Long Yang, Shouyi Lu, Yuanzhe Li, ***<u
 "Structure-Aware Radar-Camera Depth Estimation", *IEEE International Conference on Robotics and Automation (ICRA), 2025*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11128760) [![](https://img.shields.io/github/stars/FreyZhangYeh/SA-RCD?style=social&label=Code+Stars)](https://github.com/FreyZhangYeh/SA-RCD) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:qjMakFHDy7sC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
 
 Fuyi Zhang, Zhu Yu, Chunhao Li, Runmin Zhang, ***<u>Xiaokai Bai</u>***, Zili Zhou, Si-Yuan Cao, Fang Wang, and Hui-Liang Shen.
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">RAL 2025</div>
-      <img src='images/S-BEVLoc.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-"S-BEVLoc: BEV-based Self-supervised Framework for Large-scale LiDAR Global Localization", *IEEE Robotics and Automation Letters (RAL), 2025*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11108251) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:Tyk-4Ss8FVUC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
-
-Chenghao Zhang, Lun Luo, Si-Yuan Cao, ***<u>Xiaokai Bai</u>***, Zhu Yu, Yisen Wang, Beinan Yu, and Hui-Liang Shen.
   </div>
 </div>
 
