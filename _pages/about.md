@@ -90,7 +90,7 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
   <div class='paper-box-image'>
     <div>
       <div class="badge">arXiv 2026</div>
-      <img src='images/SGDet3D.png' alt="sym" width="100%">
+      <img src='images/4DR360.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -104,7 +104,7 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
   <div class='paper-box-image'>
     <div>
       <div class="badge">arXiv 2026</div>
-      <img src='images/SGDet3D.png' alt="sym" width="100%">
+      <img src='images/RC-GeoCP.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
