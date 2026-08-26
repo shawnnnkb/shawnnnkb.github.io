@@ -21,10 +21,14 @@ I am currently pursuing a Ph.D. at the College of Information Science and Electr
 
 My research interests include 3D Object Detection, 4D Radar Perception, Multi-modal Fusion, and 3D Reasoning. Recent research focuses on integrating LLMs with 4D imaging radar and vision fusion in an end-to-end architecture. <a href='https://scholar.google.com/citations?user=KMXilhkAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fshawnnnkb%2Fshawnnnkb.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-# 🔥 News
 - Currently exploring the potential of large vision-language models in 3D spatial reasoning.
 - Currently exploring brain-signal decoding for motor imagery with large vision-language models.
 - Currently exploring the integration of VLA models with brain signals for robotic manipulation.
+  
+# 🔥 News
+- Three paper submitted to AAAI (first author x2, corresponding author x1).
+- Five paper submitted to ICLR (first author x2, corresponding author x2, co-fisrt-author x1).
+- One paper accepeted by RAL (corresponding author), one paper submitted to RAL (co-fisrt-author).
 
 # 📖 Educations
 - *2023.09 - present*, Ph.D. candidate in the College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou. 
@@ -38,7 +42,7 @@ My research interests include 3D Object Detection, 4D Radar Perception, Multi-mo
 - *2022.06 - 2023.12*, Collaboration with Apple on image denoising based on transfer learning and generative models.
 - *2021.06 - 2022.06*, Student Research Project SRTP on face video heart rate signal measurement via rPPG.
 
-# 📝 Publications 
+# 📝 Selected Publications
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
