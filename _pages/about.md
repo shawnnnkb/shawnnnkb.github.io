@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently pursuing a Ph.D. at the College of Information Science and Electronic Engineering (ISEE) at Zhejiang University under the supervision of <u>Prof. Hui-liang Shen</u> (Chair of the Department of Electronic Engineering), and <u>Prof. Gang Pan</u>, (Director of the State Key Laboratory of Brain-Machine Intelligence and Vice Dean of the College of Computer Science and Technology). Prior to this, I received postgraduate exemption and my Bachelor’s degree from the ISEE, Zhejiang University.
 
-My research interests include 3D Object Detection, 4D Radar Perception, Multi-modal Fusion, and 3D Reasoning. Recent research focuses on integrating LLMs with 4D imaging radar and vision fusion in an end-to-end architecture. <a href='https://scholar.google.com/citations?user=KMXilhkAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fshawnnnkb%2Fshawnnnkb.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interests include 3D Reasoning and Neural Decoding, with VLMs. Recent research focuses on 4D-Radar-based VLA and fMRI-based semantic decoding with LLMs. <a href='https://scholar.google.com/citations?user=KMXilhkAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fshawnnnkb%2Fshawnnnkb.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 - Currently exploring the potential of large vision-language models in 3D spatial reasoning.
 - Currently exploring brain-signal decoding for motor imagery with large vision-language models.
@@ -199,6 +199,10 @@ Xue Zhang, Si-Yuan Cao, Fang Wang, Runmin Zhang, Zhe Wu, Xiaohan Zhang, ***<u>Xi
   </div>
 </div>
 
+# ✅ Services
+- *Reviewer of CVPR, ECCV, AAAI, ACMMM, ICRA, IROS, ITSC, IV*
+- *Reviewer of TCSVT, PR, IOTJ, TGRS, RAL, SensorsJ*
+
 # 🎖 Honors and Awards
 - *2024-2025*, Five-Good Graduate Student (top 1%)
 - *2024-2025*, Outstanding Graduate Student Cadre (top 5%) 
@@ -215,7 +219,3 @@ Xue Zhang, Si-Yuan Cao, Fang Wang, Runmin Zhang, Zhe Wu, Xiaohan Zhang, ***<u>Xi
 - *2020-2021*, Zhejiang University Outstanding Senior Student
 - *2019-2020*, Zhejiang University First-Class Academic Scholarship (top 3%, ￥6,000)
 - *2019-2020*, Zhejiang University Excellent League Cadre
-
-# ✅ Services
-- *Reviewer of CVPR, ECCV, AAAI, ACMMM, ICRA, IROS, ITSC, IV*
-- *Reviewer of TCSVT, PR, IOTJ, TGRS, RAL, SensorsJ*
