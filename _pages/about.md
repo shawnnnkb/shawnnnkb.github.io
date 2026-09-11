@@ -26,8 +26,8 @@ My research interests include 3D Reasoning and Neural Decoding, with VLMs. Recen
 - Currently exploring the integration of VLA models with brain signals for robotic manipulation.
   
 # 🔥 News
-- Three paper submitted to AAAI (first author x2, corresponding author x1).
-- Five paper submitted to ICLR (first author x2, corresponding author x2, co-fisrt-author x1).
+- Two paper submitted to AAAI (first author x1, corresponding author x1).
+- Five paper submitted to ICLR (first author x3, corresponding author x2, co-fisrt-author x1).
 - One paper accepeted by RAL (corresponding author), one paper submitted to RAL (co-fisrt-author).
 
 # 📖 Educations
