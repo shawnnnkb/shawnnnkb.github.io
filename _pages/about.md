@@ -27,7 +27,7 @@ My research interests include 3D Reasoning and Neural Decoding, with VLMs. Recen
   
 # 🔥 News
 - Two paper submitted to AAAI (first author x1, corresponding author x1).
-- Five paper submitted to ICLR (first author x3, corresponding author x2, co-fisrt-author x1).
+- Six paper submitted to ICLR (first author x3, corresponding author x2, co-fisrt-author x1).
 - One paper accepeted by RAL (corresponding author), one paper submitted to RAL (co-fisrt-author).
 
 # 📖 Educations
@@ -201,7 +201,7 @@ Xue Zhang, Si-Yuan Cao, Fang Wang, Runmin Zhang, Zhe Wu, Xiaohan Zhang, ***<u>Xi
 
 # ✅ Services
 - *Reviewer of CVPR, ECCV, AAAI, ACMMM, ICRA, IROS, ITSC, IV*
-- *Reviewer of TCSVT, PR, IOTJ, TGRS, RAL, SensorsJ*
+- *Reviewer of TCSVT, PR, IOTJ, TGRS, KBS, RAL, SensorsJ*
 
 # 🎖 Honors and Awards
 - *2024-2025*, Five-Good Graduate Student (top 1%)
