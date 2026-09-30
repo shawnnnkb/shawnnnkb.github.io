@@ -65,7 +65,7 @@ Lianqing Zheng, ***<u>Xiaokai Bai</u>***, Yixuan Luo, Runwei Guan, Minghao Liu, 
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-"SGDet3D++: Geometry-Grounded Semantics for 4D Radar and Camera 3D Object Detection", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2609.27671) [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:mVmsd5A6BfQC)
+"SGDet3D++: Geometry-Grounded Semantics for 4D Radar and Camera 3D Object Detection", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2609.27671) <a href='https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:mVmsd5A6BfQC'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:mVmsd5A6BfQC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat" alt="Citations"></a>
 
 ***<u>Xiaokai Bai</u>***, Zhenyu Fan, Lianqing Zheng, Songkai Wang, Si-Yuan Cao, and Hui-Liang Shen.
   </div>
@@ -79,7 +79,7 @@ Lianqing Zheng, ***<u>Xiaokai Bai</u>***, Yixuan Luo, Runwei Guan, Minghao Liu, 
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-"RoadOcc Learns When to Persist, Transport, or Refresh Memory for Roadside Occupancy Prediction", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2609.27677) [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:Wp0gIr-vW9MC)
+"RoadOcc Learns When to Persist, Transport, or Refresh Memory for Roadside Occupancy Prediction", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2609.27677) <a href='https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:Wp0gIr-vW9MC'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:Wp0gIr-vW9MC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat" alt="Citations"></a>
 
 ***<u>Xiaokai Bai</u>***, Lei Yang, Songkai Wang, Lianqing Zheng, Si-Yuan Cao, and Hui-Liang Shen.
   </div>
@@ -93,7 +93,7 @@ Lianqing Zheng, ***<u>Xiaokai Bai</u>***, Yixuan Luo, Runwei Guan, Minghao Liu, 
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-"InfraOcc: An Infrastructure Occupancy Benchmark with Static-to-Dynamic Reasoning", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2608.30657) [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:qxL8FJ1GzNcC)
+"InfraOcc: An Infrastructure Occupancy Benchmark with Static-to-Dynamic Reasoning", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2608.30657) [![](https://img.shields.io/github/stars/yanglei18/InfraOcc?style=social&label=Code+Stars)](https://github.com/yanglei18/InfraOcc) <a href='https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:qxL8FJ1GzNcC'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:qxL8FJ1GzNcC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat" alt="Citations"></a>
 
 Lei Yang, ***<u>Xiaokai Bai</u>***, Boqi Li, Chunmian Lin, Li Wang, Ziying Song, Jiahuan Zhang, Enhui Ma, Haibao Yu, Jiaqi Ma, and Kaicheng Yu.
   </div>
