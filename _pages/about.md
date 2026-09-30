@@ -103,7 +103,7 @@ Lei Yang, ***<u>Xiaokai Bai</u>***, Boqi Li, Chunmian Lin, Li Wang, Ziying Song,
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2026</div>
-      <img src='images/RaGS.png' alt="sym" width="100%">
+      <img src='images/RaGS-hd.webp' alt="RaGS framework" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -118,7 +118,7 @@ Lei Yang, ***<u>Xiaokai Bai</u>***, Boqi Li, Chunmian Lin, Li Wang, Ziying Song,
   <div class='paper-box-image'>
     <div>
       <div class="badge">TMM 2026</div>
-      <img src='images/SIFormer.png' alt="sym" width="100%">
+      <img src='images/SIFormer-hd.webp' alt="SIFormer framework" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -132,7 +132,7 @@ Lei Yang, ***<u>Xiaokai Bai</u>***, Boqi Li, Chunmian Lin, Li Wang, Ziying Song,
   <div class='paper-box-image'>
     <div>
       <div class="badge">RAL 2025</div>
-      <img src='images/SGDet3D.png' alt="sym" width="100%">
+      <img src='images/SGDet3D-hd.webp' alt="SGDet3D framework" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -174,7 +174,7 @@ Lei Yang, ***<u>Xiaokai Bai</u>***, Boqi Li, Chunmian Lin, Li Wang, Ziying Song,
   <div class='paper-box-image'>
     <div>
       <div class="badge">IROS 2025</div>
-      <img src='images/LGDD.png' alt="sym" width="100%">
+      <img src='images/LGDD-hd.webp' alt="LGDD framework" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -188,7 +188,7 @@ Lei Yang, ***<u>Xiaokai Bai</u>***, Boqi Li, Chunmian Lin, Li Wang, Ziying Song,
   <div class='paper-box-image'>
     <div>
       <div class="badge">ITSC 2025</div>
-      <img src='images/SD4R.png' alt="sym" width="100%">
+      <img src='images/SD4R-hd.webp' alt="SD4R detection comparison" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -202,7 +202,7 @@ Lei Yang, ***<u>Xiaokai Bai</u>***, Boqi Li, Chunmian Lin, Li Wang, Ziying Song,
   <div class='paper-box-image'>
     <div>
       <div class="badge">TPAMI 2026</div>
-      <img src='images/OmniHD.png' alt="sym" width="100%">
+      <img src='images/OmniHD-hd.webp' alt="OmniHD-Scenes occupancy annotation pipeline" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -216,7 +216,7 @@ Lianqing Zheng, Long Yang, Qunshu Lin, Wenjin Ai, Minghao Liu, Shouyi Lu, Jianan
   <div class='paper-box-image'>
     <div>
       <div class="badge">TCSVT 2026</div>
-      <img src='images/Doracamom.png' alt="sym" width="100%">
+      <img src='images/Doracamom-hd.webp' alt="Doracamom framework" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
