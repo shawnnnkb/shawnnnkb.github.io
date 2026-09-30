@@ -46,6 +46,62 @@ My research interests include 3D Reasoning and Neural Decoding, with VLMs. Recen
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">arXiv 2026</div>
+      <img src='images/RCVLA.webp' alt="RCVLA framework overview" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"RCVLA: 4D Radar-Grounded Semantic Reasoning and Trajectory Arbitration for Autonomous Driving", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2609.32681)
+
+Lianqing Zheng, ***<u>Xiaokai Bai</u>***, Yixuan Luo, Runwei Guan, Minghao Liu, Zhiqiang Wei, Hui-Liang Shen, Xichan Zhu, and Zhixiong Ma.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2026</div>
+      <img src='images/SGDet3Dpp.webp' alt="SGDet3D++ framework overview" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"SGDet3D++: Geometry-Grounded Semantics for 4D Radar and Camera 3D Object Detection", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2609.27671) [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:mVmsd5A6BfQC)
+
+***<u>Xiaokai Bai</u>***, Zhenyu Fan, Lianqing Zheng, Songkai Wang, Si-Yuan Cao, and Hui-Liang Shen.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2026</div>
+      <img src='images/RoadOcc.webp' alt="RoadOcc framework overview" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"RoadOcc Learns When to Persist, Transport, or Refresh Memory for Roadside Occupancy Prediction", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2609.27677) [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:Wp0gIr-vW9MC)
+
+***<u>Xiaokai Bai</u>***, Lei Yang, Songkai Wang, Lianqing Zheng, Si-Yuan Cao, and Hui-Liang Shen.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2026</div>
+      <img src='images/InfraOcc.webp' alt="InfraOcc dataset scene and semantic occupancy annotations" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"InfraOcc: An Infrastructure Occupancy Benchmark with Static-to-Dynamic Reasoning", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2608.30657) [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:qxL8FJ1GzNcC)
+
+Lei Yang, ***<u>Xiaokai Bai</u>***, Boqi Li, Chunmian Lin, Li Wang, Ziying Song, Jiahuan Zhang, Enhui Ma, Haibao Yu, Jiaqi Ma, and Kaicheng Yu.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">CVPR 2026</div>
       <img src='images/RaGS.png' alt="sym" width="100%">
     </div>
@@ -171,33 +227,7 @@ Lianqing Zheng, Jianan Liu, Runwei Guan, Long Yang, Shouyi Lu, Yuanzhe Li, ***<u
 </div>
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ICRA 2025</div>
-      <img src='images/SARCD.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-"Structure-Aware Radar-Camera Depth Estimation", *IEEE International Conference on Robotics and Automation (ICRA), 2025*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11128760) [![](https://img.shields.io/github/stars/FreyZhangYeh/SA-RCD?style=social&label=Code+Stars)](https://github.com/FreyZhangYeh/SA-RCD) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:qjMakFHDy7sC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
 
-Fuyi Zhang, Zhu Yu, Chunhao Li, Runmin Zhang, ***<u>Xiaokai Bai</u>***, Zili Zhou, Si-Yuan Cao, Fang Wang, and Hui-Liang Shen.
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">TIV 2024</div>
-      <img src='images/Rethinking.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-"Rethinking Early-Fusion Strategies for Improved Multispectral Object Detection", *IEEE Transactions on Intelligent Vehicles (TIV), 2024*. [[Paper]](https://ieeexplore.ieee.org/document/10681477) [![](https://img.shields.io/github/stars/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection?style=social&label=Code+Stars)](https://github.com/XueZ-phd/Efficient-RGB-T-Early-Fusion-Detection) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:u-x6o8ySG0sC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
-
-Xue Zhang, Si-Yuan Cao, Fang Wang, Runmin Zhang, Zhe Wu, Xiaohan Zhang, ***<u>Xiaokai Bai</u>***, and Hui-Liang Shen.
-  </div>
-</div>
 
 # ✅ Services
 - *Reviewer of CVPR, ECCV, AAAI, ACMMM, ICRA, IROS, ITSC, IV*
