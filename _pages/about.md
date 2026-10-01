@@ -28,6 +28,9 @@ My research interests include 3D Reasoning and Neural Decoding, with VLMs. Recen
 # 🔥 News
 - Two paper submitted to AAAI (first author x1, corresponding author x1).
 - Six paper submitted to ICLR (first author x3, corresponding author x2, co-fisrt-author x1).
+- One paper submitted to PR (corresponding author x1).
+- One paper submitted to TVT (corresponding author x1).
+- One paper submitted to TPAMI (co-fisrt-author x1).
 - Two paper accepeted by RAL (corresponding author x1, co-fisrt-author x1).
 
 # 📖 Educations
