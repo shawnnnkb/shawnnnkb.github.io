@@ -15,7 +15,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 6
     steps:
       - uses: actions/checkout@v4
@@ -33,7 +33,7 @@ jobs:
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
         run: |
           set +e
-          timeout 120s python -u main.py
+          timeout 300s python -u main.py
           status=$?
           set -e
           if [ "$status" -eq 124 ]; then
@@ -41,7 +41,7 @@ jobs:
             git fetch origin google-scholar-stats
             git show FETCH_HEAD:gs_data.json > "$RUNNER_TEMP/previous-scholar-data.json"
             python -c 'import json, os; d=json.load(open(os.path.join(os.environ["RUNNER_TEMP"], "previous-scholar-data.json"))); assert isinstance(d["citedby"], int) and isinstance(d["publications"], dict); print("Retained citation data last updated:", d["updated"])' >> "$GITHUB_STEP_SUMMARY"
-            echo "::warning::Google Scholar did not finish within 120 seconds. Previous citation data has been retained; citations were NOT refreshed."
+            echo "::warning::Google Scholar did not finish within 300 seconds. Previous citation data has been retained; citations were NOT refreshed."
             echo "Google Scholar timed out. No new citation data was published." >> "$GITHUB_STEP_SUMMARY"
             echo "updated=false" >> "$GITHUB_OUTPUT"
           elif [ "$status" -ne 0 ]; then
