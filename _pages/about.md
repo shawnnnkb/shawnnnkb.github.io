@@ -167,7 +167,7 @@ Lei Yang, ***<u>Xiaokai Bai</u>***, Boqi Li, Chunmian Lin, Li Wang, Ziying Song,
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-"RC-GeoCP: Geometric Consensus for Radar-Camera Collaborative Perception", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2603.00654)
+"RC-GeoCP: Geometric Consensus for Radar-Camera Collaborative Perception", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2603.00654) <a href='https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:0EnyYjriUFMC'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:0EnyYjriUFMC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat" alt="Citations"></a>
 
 ***<u>Xiaokai Bai</u>***, Lianqing Zheng, Runwei Guan, Siyuan Cao, Songkai Wang, Huiliang Shen.
   </div>
