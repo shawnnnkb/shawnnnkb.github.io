@@ -50,6 +50,20 @@ My research interests include 3D Reasoning and Neural Decoding, with VLMs. Recen
   <div class='paper-box-image'>
     <div>
       <div class="badge">arXiv 2026</div>
+      <img src='images/FFBL-Coop.webp' alt="FFBL-Coop framework overview" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"FFBL-Coop: Association-Decoupled Cooperative 3D Multi-Object Tracking", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2610.01750) <a href='https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:QIV2ME_5wuYC'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:QIV2ME_5wuYC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat" alt="Citations"></a>
+
+Haoxin Wu, ***<u>Xiaokai Bai</u>***.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2026</div>
       <img src='images/RCVLA.webp' alt="RCVLA framework overview" width="100%">
     </div>
   </div>
@@ -156,6 +170,20 @@ Lei Yang, ***<u>Xiaokai Bai</u>***, Boqi Li, Chunmian Lin, Li Wang, Ziying Song,
 "4DR360◦: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2607.09629) <a href='https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:ULOm3_A8WrAC'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:ULOm3_A8WrAC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat" alt="Citations"></a>
 
 ***<u>Xiaokai Bai</u>***, Lianqing Zheng, Runwei Guan, Songkai Wang, Siyuan Cao, Hui-liang Shen.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2026</div>
+      <img src='images/MindEdit-Bench.webp' alt="MindEdit-Bench overview" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"MindEdit-Bench: Benchmarking Object-Level Counterfactual Spatial Reasoning in VLMs from In-the-Wild Photos", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2607.00491) <a href='https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:kNdYIx-mwKoC'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:kNdYIx-mwKoC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat" alt="Citations"></a>
+
+Leyuan Yu, Xiao Tang, Minghao Liu, Xinyuan Li, ***<u>Xiaokai Bai</u>***, Sheng Zhou, Qunshu Lin, Weihao Xuan, and Naoto Yokoya.
   </div>
 </div>
 
