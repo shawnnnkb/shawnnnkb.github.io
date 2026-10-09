@@ -54,7 +54,7 @@ My research interests include 3D Reasoning and Neural Decoding, with VLMs. Recen
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-"RCVLA: 4D Radar-Grounded Semantic Reasoning and Trajectory Arbitration for Autonomous Driving", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2609.32681)
+"RCVLA: 4D Radar-Grounded Semantic Reasoning and Trajectory Arbitration for Autonomous Driving", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2609.32681) <a href='https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:9ZlFYXVOiuMC'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:9ZlFYXVOiuMC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat" alt="Citations"></a>
 
 Lianqing Zheng, ***<u>Xiaokai Bai</u>***, Yixuan Luo, Runwei Guan, Minghao Liu, Zhiqiang Wei, Hui-Liang Shen, Xichan Zhu, and Zhixiong Ma.
   </div>
@@ -153,7 +153,7 @@ Lei Yang, ***<u>Xiaokai Bai</u>***, Boqi Li, Chunmian Lin, Li Wang, Ziying Song,
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-"4DR360◦: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2607.09629)
+"4DR360◦: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2607.09629) <a href='https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:ULOm3_A8WrAC'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:ULOm3_A8WrAC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat" alt="Citations"></a>
 
 ***<u>Xiaokai Bai</u>***, Lianqing Zheng, Runwei Guan, Songkai Wang, Siyuan Cao, Hui-liang Shen.
   </div>
