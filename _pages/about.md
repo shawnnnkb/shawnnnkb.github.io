@@ -139,7 +139,7 @@ Lei Yang, ***<u>Xiaokai Bai</u>***, Boqi Li, Chunmian Lin, Li Wang, Ziying Song,
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-"Boosting Instance Awareness via Cross-View Correlation with 4D Radar and Camera for 3D Object Detection", *IEEE Transactions on Multimedia (TMM), 2026*. [[Paper]](https://arxiv.org/abs/2602.20632) [![](https://img.shields.io/github/stars/shawnnnkb/SIFormer?style=social&label=Code+Stars)](https://github.com/shawnnnkb/SIFormer) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:UebtZRa9Y70C.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
+"Boosting Instance Awareness via Cross-View Correlation with 4D Radar and Camera for 3D Object Detection", *IEEE Transactions on Multimedia (TMM), 2026*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11482882) [![](https://img.shields.io/github/stars/shawnnnkb/SIFormer?style=social&label=Code+Stars)](https://github.com/shawnnnkb/SIFormer) <a href='https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=KMXilhkAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:UebtZRa9Y70C.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat"></a>
 
 ***<u>Xiaokai Bai</u>***, Lianqing Zheng, Si-Yuan Cao, Xiaohan Zhang, Zhe Wu, Beinan Yu, Fang Wang, Jie Bai, and Hui-Liang Shen.
   </div>
