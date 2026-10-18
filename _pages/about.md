@@ -46,6 +46,7 @@ My research interests include 3D Reasoning and Neural Decoding, with VLMs. Recen
 - *2021.06 - 2022.06*, Student Research Project SRTP on face video heart rate signal measurement via rPPG.
 
 # 📝 Selected Publications
+<small><sup>&#42;</sup> Co-first author; <sup>&#8224;</sup> corresponding author.</small>
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -56,7 +57,7 @@ My research interests include 3D Reasoning and Neural Decoding, with VLMs. Recen
   <div class='paper-box-text' markdown="1">
 "InfraWorld: Motion-Aware World Modeling for Roadside 4D Occupancy Forecasting", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2610.14544)
 
-Songkai Wang, ***<u>Xiaokai Bai</u>*** (co-first author, corresponding author), Lei Yang, and Hui-Liang Shen.
+Songkai Wang<sup>&#42;</sup>, ***<u>Xiaokai Bai</u>***<sup>&#42;&#8224;</sup>, Lei Yang, and Hui-Liang Shen. (co-first author, corresponding author)
   </div>
 </div>
 
@@ -70,7 +71,7 @@ Songkai Wang, ***<u>Xiaokai Bai</u>*** (co-first author, corresponding author), 
   <div class='paper-box-text' markdown="1">
 "FFBL-Coop: Association-Decoupled Cooperative 3D Multi-Object Tracking", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2610.01750) <a href='https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:QIV2ME_5wuYC'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:QIV2ME_5wuYC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat" alt="Citations"></a>
 
-Haoxin Wu, ***<u>Xiaokai Bai</u>*** (co-first author, corresponding author).
+Haoxin Wu, ***<u>Xiaokai Bai</u>***<sup>&#8224;</sup>. (corresponding author)
   </div>
 </div>
 
@@ -84,7 +85,7 @@ Haoxin Wu, ***<u>Xiaokai Bai</u>*** (co-first author, corresponding author).
   <div class='paper-box-text' markdown="1">
 "RCVLA: 4D Radar-Grounded Semantic Reasoning and Trajectory Arbitration for Autonomous Driving", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2609.32681) <a href='https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:9ZlFYXVOiuMC'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:9ZlFYXVOiuMC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat" alt="Citations"></a>
 
-Lianqing Zheng, ***<u>Xiaokai Bai</u>*** (co-first author), Yixuan Luo, Runwei Guan, Minghao Liu, Zhiqiang Wei, Hui-Liang Shen, Xichan Zhu, and Zhixiong Ma.
+Lianqing Zheng<sup>&#42;</sup>, ***<u>Xiaokai Bai</u>***<sup>&#42;</sup>, Yixuan Luo, Runwei Guan, Minghao Liu, Zhiqiang Wei, Hui-Liang Shen, Xichan Zhu, and Zhixiong Ma<sup>&#8224;</sup>. (co-first author)
   </div>
 </div>
 
@@ -126,7 +127,7 @@ Lianqing Zheng, ***<u>Xiaokai Bai</u>*** (co-first author), Yixuan Luo, Runwei G
   <div class='paper-box-text' markdown="1">
 "KCTF-Net: Kinematic Compensation Temporal Fusion for 4D Radar 3D Object Detection", *IEEE Robotics and Automation Letters (RAL)*, vol. 11, no. 10, pp. 12112-12119, 2026. [[Paper]](https://ieeexplore.ieee.org/document/11675980) <a href='https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:M3ejUd6NZC8C'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:M3ejUd6NZC8C.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat" alt="Citations"></a>
 
-Xingkai Jin, Guangxian Xu, Fei Ma, and ***<u>Xiaokai Bai</u>*** (corresponding author).
+Xingkai Jin, Guangxian Xu, Fei Ma, and ***<u>Xiaokai Bai</u>***<sup>&#8224;</sup>. (corresponding author)
   </div>
 </div>
 
@@ -140,7 +141,7 @@ Xingkai Jin, Guangxian Xu, Fei Ma, and ***<u>Xiaokai Bai</u>*** (corresponding a
   <div class='paper-box-text' markdown="1">
 "InfraOcc: An Infrastructure Occupancy Benchmark with Static-to-Dynamic Reasoning", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2608.30657) [![](https://img.shields.io/github/stars/yanglei18/InfraOcc?style=social&label=Code+Stars)](https://github.com/yanglei18/InfraOcc) <a href='https://scholar.google.com/citations?view_op=view_citation&user=KMXilhkAAAAJ&citation_for_view=KMXilhkAAAAJ:qxL8FJ1GzNcC'><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shawnnnkb/shawnnnkb.github.io/google-scholar-stats/gs_data.json&query=$.publications.KMXilhkAAAAJ:qxL8FJ1GzNcC.num_citations&logo=Google%20Scholar&label=citations&color=9cf&labelColor=f6f6f6&style=flat" alt="Citations"></a>
 
-Lei Yang, ***<u>Xiaokai Bai</u>*** (co-first author), Boqi Li, Chunmian Lin, Li Wang, Ziying Song, Jiahuan Zhang, Enhui Ma, Haibao Yu, Jiaqi Ma, and Kaicheng Yu.
+Lei Yang<sup>&#42;</sup>, ***<u>Xiaokai Bai</u>***<sup>&#42;</sup>, Boqi Li<sup>&#8224;</sup>, Chunmian Lin, Li Wang<sup>&#8224;</sup>, Ziying Song, Jiahuan Zhang, Enhui Ma, Haibao Yu, Jiaqi Ma, and Kaicheng Yu<sup>&#8224;</sup>. (co-first author)
   </div>
 </div>
 
