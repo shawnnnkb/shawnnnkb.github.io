@@ -50,6 +50,20 @@ My research interests include 3D Reasoning and Neural Decoding, with VLMs. Recen
   <div class='paper-box-image'>
     <div>
       <div class="badge">arXiv 2026</div>
+      <img src='images/InfraWorld.webp' alt="InfraWorld architecture overview" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+"InfraWorld: Motion-Aware World Modeling for Roadside 4D Occupancy Forecasting", *arXiv*, 2026. [[Paper]](https://arxiv.org/abs/2610.14544) [[BibTeX]](https://arxiv.org/bibtex/2610.14544)
+
+Songkai Wang, ***<u>Xiaokai Bai</u>***, Lei Yang, and Hui-Liang Shen.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2026</div>
       <img src='images/FFBL-Coop.webp' alt="FFBL-Coop framework overview" width="100%">
     </div>
   </div>
