@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">KCTF-Net conceptual overview</title>
+  <desc id="desc">Multi-frame 4D radar passes through dynamic kinematic compensation, temporal pillar flow enhancement, and motion-guided attention fusion to produce 3D detections. This is a conceptual illustration based on the paper abstract.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset="1" stop-color="#edf5fa"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2 2 10 6 2 10" fill="none" stroke="#3d6178" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <filter id="shadow" x="-10%" y="-15%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#44718d" flood-opacity=".12"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="480" rx="22" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="478" rx="21" fill="none" stroke="#d2e2ec" stroke-width="2"/>
+  <text x="52" y="73" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#153a57">KCTF-Net</text>
+  <text x="52" y="108" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#55758c">Kinematic compensation and temporal fusion for 4D radar 3D detection</text>
+
+  <g filter="url(#shadow)">
+    <rect x="42" y="145" width="205" height="260" rx="16" fill="#fff" stroke="#c5dae7" stroke-width="2"/>
+    <rect x="280" y="171" width="188" height="208" rx="16" fill="#fff" stroke="#97c4d9" stroke-width="2"/>
+    <rect x="500" y="171" width="188" height="208" rx="16" fill="#fff" stroke="#a2d2c4" stroke-width="2"/>
+    <rect x="720" y="171" width="188" height="208" rx="16" fill="#fff" stroke="#dec894" stroke-width="2"/>
+    <rect x="941" y="145" width="217" height="260" rx="16" fill="#fff" stroke="#c5dae7" stroke-width="2"/>
+  </g>
+
+  <g stroke="#456b83" stroke-width="2.5" fill="none" marker-end="url(#arrow)">
+    <path d="M251 275 H272"/>
+    <path d="M472 275 H492"/>
+    <path d="M692 275 H712"/>
+    <path d="M912 275 H932"/>
+  </g>
+
+  <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+    <text x="144" y="184" font-size="21" font-weight="700" fill="#153a57">Multi-frame</text>
+    <text x="144" y="209" font-size="21" font-weight="700" fill="#153a57">4D Radar</text>
+    <text x="374" y="327" font-size="18" font-weight="700" fill="#176a91">DKC</text>
+    <text x="374" y="352" font-size="14" fill="#55758c">Kinematic alignment</text>
+    <text x="594" y="327" font-size="18" font-weight="700" fill="#14836d">TPFE</text>
+    <text x="594" y="352" font-size="14" fill="#55758c">Temporal enhancement</text>
+    <text x="814" y="327" font-size="18" font-weight="700" fill="#a87421">MGAF</text>
+    <text x="814" y="352" font-size="14" fill="#55758c">Motion-guided fusion</text>
+    <text x="1049" y="359" font-size="21" font-weight="700" fill="#153a57">3D Detections</text>
+  </g>
+
+  <g fill="#329cc2" opacity=".9">
+    <circle cx="84" cy="277" r="4"/><circle cx="99" cy="254" r="3"/><circle cx="116" cy="277" r="4"/><circle cx="130" cy="245" r="3"/><circle cx="143" cy="277" r="4"/>
+    <circle cx="154" cy="255" r="3"/><circle cx="170" cy="279" r="4"/><circle cx="182" cy="245" r="3"/><circle cx="204" cy="272" r="4"/>
+    <circle cx="91" cy="307" r="3"/><circle cx="117" cy="314" r="4"/><circle cx="143" cy="302" r="3"/><circle cx="169" cy="316" r="4"/><circle cx="195" cy="304" r="3"/>
+  </g>
+  <g fill="none" stroke="#71b6d1" stroke-width="2.5" opacity=".7">
+    <path d="M74 253 Q141 218 212 255"/><path d="M75 335 Q145 294 210 337"/>
+  </g>
+
+  <g stroke="#329cc2" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M324 278 h96"/><path d="M331 252 h76"/><path d="M338 226 h58"/>
+    <path d="M341 244 l18 17"/><path d="M358 266 l22 10"/>
+  </g>
+  <g fill="#ed9a5a"><circle cx="344" cy="243" r="5"/><circle cx="362" cy="263" r="5"/><circle cx="381" cy="277" r="5"/></g>
+
+  <g fill="none" stroke="#37a789" stroke-width="3">
+    <rect x="546" y="223" width="18" height="53" rx="3"/><rect x="570" y="208" width="18" height="68" rx="3"/>
+    <rect x="594" y="231" width="18" height="45" rx="3"/><rect x="618" y="215" width="18" height="61" rx="3"/>
+    <path d="M544 288 Q592 300 643 252" marker-end="url(#arrow)"/>
+  </g>
+
+  <g fill="none" stroke="#c79643" stroke-width="2.6">
+    <circle cx="814" cy="258" r="43"/><circle cx="814" cy="258" r="25"/><circle cx="814" cy="258" r="8" fill="#c79643"/>
+    <path d="M767 258 h-20 M861 258 h20 M814 211 v-18 M814 305 v18"/>
+  </g>
+
+  <g stroke="#2e85a9" stroke-width="3" fill="#e7f5fa" stroke-linejoin="round">
+    <path d="M982 265 l36 -29 84 13 -35 30 z"/><path d="M982 265 v48 l85 15 v-49"/><path d="M1067 279 l35 -30 v50 l-35 29"/>
+    <path d="M1014 240 v-28 l78 12 v28"/>
+  </g>
+  <circle cx="1024" cy="313" r="4" fill="#e59354"/><circle cx="1080" cy="307" r="4" fill="#e59354"/>
+  <text x="1149" y="456" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="end" fill="#69869a">Conceptual illustration based on paper abstract</text>
+</svg>
+
