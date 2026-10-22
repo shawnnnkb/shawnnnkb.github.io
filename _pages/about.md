@@ -27,18 +27,18 @@ My research interests include 3D Reasoning and Neural Decoding, with VLMs. Recen
   
 # 🔥 News
 - Two paper submitted to AAAI (first author x1, corresponding author x1).
-- Six paper submitted to ICLR (first author x3, corresponding author x2, co-fisrt-author x1).
+- Six paper submitted to ICLR (first author x3, corresponding author x2, co-first-author x1).
 - One paper submitted to PR (corresponding author x1).
 - One paper submitted to TVT (corresponding author x1).
-- One paper submitted to TPAMI (co-fisrt-author x1).
-- Two paper accepeted by RAL (corresponding author x1, co-fisrt-author x1).
+- One paper submitted to TPAMI (co-first-author x1).
+- Two paper accepted by RAL (corresponding author x1, co-first-author x1).
 
 # 📖 Educations
 - *2023.09 - present*, Ph.D. candidate in the College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou. 
 - *2019.09 - 2023.06*, B.E. in the College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou.
 
 # 💻 Projects
-- *2026.03 - present*, Collaboration with Postdoct Jiaxuan Chen on neural signal decoding and cross-modal alignment with VLMs).
+- *2026.03 - present*, Collaboration with Postdoc Jiaxuan Chen on neural signal decoding and cross-modal alignment with VLMs).
 - *2025.08 - 2026.03*, ChinaEye Valley Co-operative Project on maternal and infant health risk assessment.
 - *2025.12 - 2026.06*, Collaboration with VIVO on 4D dynamic scene reconstruction under sparse-view, combining generative models.
 - *2024.01 - 2026.06*, National Key R&D Program of China, 4D radar object detection and tracking in autonomous driving.
